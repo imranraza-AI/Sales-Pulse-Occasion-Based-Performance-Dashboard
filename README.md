@@ -4,6 +4,10 @@ Welcome to the **Sales Analysis Dashboard** built on the `fmp` platform. This da
 
 ---
 
+![Sales Analysis Dashboard Screenshot](C:\Users\HP\OneDrive\Desktop\FNP---Excel-Project)
+
+
+
 ## 🚀 Purpose
 
 This dashboard is designed to help businesses:
