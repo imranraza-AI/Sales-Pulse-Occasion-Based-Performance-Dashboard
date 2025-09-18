@@ -4,7 +4,7 @@ Welcome to the **Sales Analysis Dashboard** built on the `fmp` platform. This da
 
 ---
 
-![Sales Analysis Dashboard Screenshot]([C:\Users\HP\OneDrive\Desktop\FNP---Excel-Project](https://github.com/imranraza-AI/Sales-Pulse-Occasion-Based-Performance-Dashboard/blob/main/Screenshot%202024-10-24%20160552.png))
+![Sales Analysis Dashboard Screenshot](https://github.com/imranraza-AI/Sales-Pulse-Occasion-Based-Performance-Dashboard/blob/main/Screenshot%202024-10-24%20160552.png)
 
 
 
